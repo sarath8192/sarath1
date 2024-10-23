@@ -25,7 +25,7 @@ class Rectangle extends Shape
     {
         super(i,j);
     }
-    double are()
+    double area()
     {
         return dim1*dim2;
     }
