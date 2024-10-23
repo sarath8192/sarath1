@@ -1,4 +1,4 @@
-class Main{
+class ExceptionMain{
 public static void main (String[] args) {
     int a,b,c;
     try {
