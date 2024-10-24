@@ -12,7 +12,7 @@ class Roots
         {
             
             System.out.println("roots are real and equal");
-            r1=r2=b/(2*a);
+            r1=r2=-b/(2*a);
             System.out.println("root1="+r1+""+"root2="+r2);
             }
             else if(d>0)
