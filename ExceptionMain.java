@@ -8,7 +8,7 @@ public static void main (String[] args) {
         System.out.println(c);
         
     } catch(ArithmeticException ae) {
-        System.out.println("welcome");
+        System.out.println("arthematic expetion");
     }
 }
 }
